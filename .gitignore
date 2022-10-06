@@ -1,0 +1,8 @@
+# Dependencies
+auth.json
+
+#Laravel folder
+/src/
+
+#Database folder
+/database/
